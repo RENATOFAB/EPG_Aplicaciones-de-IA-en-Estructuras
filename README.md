@@ -3,16 +3,16 @@
 #Predicción de la Resistencia del Concreto de Alto Desempeño usando Redes Neuronales
 -
 
-#DESCRIPCION DEL PROYECTO
+#Descripcion del proyecto
 -
 - El objetivo de la investigacion estudiada tuvo como objetivo predecir la resistencia a la compresion de concreto de alta resistencia (HPC) utilizando como herramieenta la Inteligencia artificial, especificamente las Redes Neuronales Artificiales (ANN).
 - La finalidad de la investigacion es de reducir la dependdencia de la realizacion de ensayos experimentales en laboratorio y optimizar el tiempo y costo para determinar las resistencias.
   
-#OBJETIVO
+#Objetivo
 ---------
 - Desarrollar un modelo predictivo basado en redes neuronales que estime la resistencia del concreto en funcion a sus componentes.
   
-#OBJETIVOS ESPECIFICOS
+#Objetivos especificos
 -
 - Aplicar e implmentar el machine learning
 - Aplicacar los principios de Veridical Data Science (PCS framework) basados en el trabajo de Bin Yu. Deben justificar la predictibilidad, computabilidad y estabilidad esperada de sus datos.
