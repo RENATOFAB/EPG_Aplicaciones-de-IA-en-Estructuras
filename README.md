@@ -27,8 +27,7 @@ El conjunto de datos contiene registros experimentales de mezclas de concreto co
 Fuente
 Dataset basado en el estudio:
 Modeling of strength of high-performance concrete using artificial neural networks
-  Original Owner and Donor
-  Prof. I-Cheng Yeh
+  Original Owner and Donor : Prof. I-Cheng Yeh
   Department of Information Management 
   Chung-Hua University, 
   Hsin Chu, Taiwan 30067, R.O.C.
@@ -36,7 +35,6 @@ Modeling of strength of high-performance concrete using artificial neural networ
   TEL:886-3-5186511
   Date Donated: August 3, 2007
   
-  -----------------------------------------------------
  Variables de Entrada
  -----------------------------------------
 - Cemento (kg/m³)
